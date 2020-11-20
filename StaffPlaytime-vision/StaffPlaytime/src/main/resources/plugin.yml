@@ -1,0 +1,5 @@
+name: Visions
+version: ${project.version}
+main: fr.patatedouce.Vision
+authors: ["TomJedusor"]
+website: www.foxymc.eu

@@ -1,0 +1,13 @@
+MONGO:
+  HOST: 127.0.0.1
+  PORT: 27017
+  DATABASE: 'visions'
+  AUTH:
+    ENABLED: true
+    USERNAME: 'Admin1'
+    PASSWORD: '123123'
+    AUTH-DATABASE: 'admin'
+
+WEBHOOK:
+  URL: 'https://discordapp.com/api/webhooks/759128546345091143/jGEogU2sb_AnFj8p2ivrWpQJQ9yGabARYWge-UV2sLcp22mkoLd8rSy11Hv6gbp7E72S'
+  IMAGE: ''
